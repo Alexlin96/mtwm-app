@@ -1,6 +1,6 @@
 # meituanwaimai
 
-> A Vue.js project
+> 仿美团外卖
 
 ## Build Setup
 
